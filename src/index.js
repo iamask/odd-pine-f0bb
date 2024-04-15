@@ -10,6 +10,6 @@
 
 export default {
 	async fetch(request, env, ctx) {
-		return new Response('Hello jenkins!');
+		return new Response('Hello jenkins 2!');
 	},
 };
